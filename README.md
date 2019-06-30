@@ -1,0 +1,1 @@
+This contains the templates, slides, and outlines for all of my recent presentations.
